@@ -53,9 +53,9 @@ I have provided the floating action button which is part of the scaffold.
 
 [Icon Button Flutter Docs](https://api.flutter.dev/flutter/material/IconButton-class.html)
 
-[Raised Button Flutter Docs](https://api.flutter.dev/flutter/material/RaisedButton-class.html)
+[Elevated Button Flutter Docs](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
 
-[Flat Button Flutter Docs](https://api.flutter.dev/flutter/material/FlatButton-class.html)
+[Text Button Flutter Docs](https://api.flutter.dev/flutter/material/TextButton-class.html)
 
 [Floating Action Button Flutter Docs](https://api.flutter.dev/flutter/material/FloatingActionButton-class.html)
 
