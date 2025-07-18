@@ -1,12 +1,12 @@
 # HW 1: Intro to 
 
 You will be modifying the code snippets provided for each question to match the expected output.
-You can run your code online using Dart Pad
-Compile your answers into a document and submit via Blackboard.
+
+Write the code for each question in their designated file in the `/lib` directory.
 
 ## 1. Data Types
 
-### Dart Built In Types 
+### Dart Built In Types Docs
 
 ```cpp
 void main() {
@@ -32,7 +32,7 @@ false
 
 ## 2. Variables
 
-### Variable 
+### Dart Variable Types
 
 ```cpp
 void main() {
@@ -70,7 +70,7 @@ Bobby Boi
 
 ## 3. Operators
 
-### Dart Operators 
+### Dart Operators Docs
 
 ```cpp
 void main() {
