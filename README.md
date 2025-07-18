@@ -4,6 +4,14 @@ You will be modifying the code snippets provided for each question to match the 
 
 Write the code for each question in their designated file in the `/lib` directory.
 
+### Why Dart?
+
+For this course we will be developing applications using Flutter and Dart.
+
+**Dart** is a programming language also created by Google and was designed for building fast and efficient applications on any platform including web, mobile, and desktop. Dart supports both client and server-side development and is most commonly used with Flutter.
+
+Start familiarizing yourslef with the Dart programming language by following this [Dart Tutorial](https://dart-tutorial.com/introduction-and-basics/basic-dart-program/).
+
 ## 1. Data Types
 
 ### Dart Built In Types Docs
