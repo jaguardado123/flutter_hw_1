@@ -29,7 +29,7 @@ void main() {
 /* 
 EXPECTED OUTPUT
 1
-2
+2.5
 abc
 abc
 true
