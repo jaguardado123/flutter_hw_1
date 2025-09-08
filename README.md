@@ -212,3 +212,15 @@ false
 Hello, World
 */
 ```
+
+## Grading Criteria
+
+| Task | Value of each task | Possible Points Lost |
+|---|---|---|
+| Question 1: Data Types | 14 points | 2 points deduction per each question that is wrong under this section |
+| Question 2:  Variables | 14 points | 3.5 points deduction per each question that is wrong under this section |
+| Question 3:  Operators | 16 points | 2 points deduction per each question that is wrong under this section |
+| Question 4:  Conditionals | 18 points | 9 points deduction per each question that is wrong under this section or half credit if the logic is right but have the incorrect output |
+| Question 5:  Loops | 18 points | 9 points deduction per each question that is wrong under this section or half credit if the logic is right but have the incorrect output |
+| Question 6: Functions | 20 points | 10 points deduction per each question that is wrong under this section or half credit if the logic is right but have the incorrect output |
+| | 100 points total | |
