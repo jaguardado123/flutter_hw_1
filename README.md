@@ -18,13 +18,13 @@ Start familiarizing yourslef with the Dart programming language by following thi
 
 ```cpp
 void main() {
-  print(/* add a integer literal here */);
-  print(/* add a double literal here */);
-  print(/* add a single quote string */);
-  print(/* add a double quote string */);
-  print(/* add a true boolean literal */);
-  print(/* add a false boolean literal */);
-  print(/* add a list literal */);
+  print(/* insert a integer literal here */);
+  print(/* insert a double literal here */);
+  print(/* insert a single quote string */);
+  print(/* insert a double quote string */);
+  print(/* insert a true boolean literal */);
+  print(/* insert a false boolean literal */);
+  print(/* insert a list literal */);
 }
 /* 
 EXPECTED OUTPUT
@@ -44,11 +44,11 @@ false
 
 ```cpp
 void main() {
-  //make a variable using var keyword (this infers the type)
+  // make a variable using the var keyword (this infers the type)
   // var name = "Bobby Boy";
   // then print the variable
 
-  // make a explicit variable by using it data type 
+  // make an explicit variable by using its data type 
   //ex. String name = "Bob";
   // then print the variable
 
@@ -62,7 +62,7 @@ void main() {
 
   // try doing the same for the other two
   // YOU SHOULD GET AN ERROR
-  //Error: A value of type 'double' can't be assigned to a variable of type 'String'.
+  // Error: A value of type 'double' can't be assigned to a variable of type 'String'.
   // remove the reassignents
 
   // Only dynamic variables can be reassigned different data types.
